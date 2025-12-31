@@ -1,9 +1,13 @@
 ## Hi I'm Frank
 
-HS Student who does random stuff with CS
-\nCurrent Member of FRC 6423
-\nC++ is goated
-\nI hate usaco
+HS student who does random stuff with CS  
+
+Current member of FRC 6423  
+
+C++ is goated  
+
+I hate USACO
+
 
 ### Projects
  - NSGA-II Parameter Tuning integrated with Polulu Zumo
