@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi I'm Frank
+
+HS Student who does random stuff with CS
+Current Member of FRC 6423
+C++ is goated
+I hate usaco
+
+### Projects
+ - NSGA-II Parameter Tuning integrated with Polulu Zumo
+
+
 
 <!--
 **Overcomplicated12/Overcomplicated12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
