@@ -1,8 +1,8 @@
 ## Hi I'm Frank
 
-HS student who does random stuff with CS  
+D1 Larper
 
-Current member of FRC 6423  
+Captain of FRC 6423  
 
 C++ is goated  
 
