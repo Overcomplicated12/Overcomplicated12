@@ -11,6 +11,7 @@ I hate USACO
 
 ### Projects
  - NSGA-II Parameter Tuning integrated with Polulu Zumo
+ - (more to come hopefully)
 
 
 
